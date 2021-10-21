@@ -1,0 +1,16 @@
+D:\training.net\mastek\HRlib\ABCcorporation\bin\Debug\net5.0\ABCcorporation.exe
+D:\training.net\mastek\HRlib\ABCcorporation\bin\Debug\net5.0\ABCcorporation.deps.json
+D:\training.net\mastek\HRlib\ABCcorporation\bin\Debug\net5.0\ABCcorporation.runtimeconfig.json
+D:\training.net\mastek\HRlib\ABCcorporation\bin\Debug\net5.0\ABCcorporation.runtimeconfig.dev.json
+D:\training.net\mastek\HRlib\ABCcorporation\bin\Debug\net5.0\ABCcorporation.dll
+D:\training.net\mastek\HRlib\ABCcorporation\bin\Debug\net5.0\ref\ABCcorporation.dll
+D:\training.net\mastek\HRlib\ABCcorporation\bin\Debug\net5.0\ABCcorporation.pdb
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.csproj.AssemblyReference.cache
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.GeneratedMSBuildEditorConfig.editorconfig
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.AssemblyInfoInputs.cache
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.AssemblyInfo.cs
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.csproj.CoreCompileInputs.cache
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.dll
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ref\ABCcorporation.dll
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.pdb
+D:\training.net\mastek\HRlib\ABCcorporation\obj\Debug\net5.0\ABCcorporation.genruntimeconfig.cache
